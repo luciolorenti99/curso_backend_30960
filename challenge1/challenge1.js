@@ -28,7 +28,7 @@ class Usuario {
 
 }
 
-const usuario = new Usuario('Felix', 'Castro')
+const usuario = new Usuario('Lucio', 'Lorenti')
 
 usuario.addMascota('Isis')
 usuario.addMascota('zeus')
